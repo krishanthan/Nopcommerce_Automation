@@ -1,0 +1,3 @@
+NopCommerce_Automation_Testing.Catalogpage._001_Validate_catalog
+NopCommerce_Automation_Testing.Catalogpage._002_Validate_productpage
+NopCommerce_Automation_Testing.Catalogpage._003_Validate_Add_New_Product
